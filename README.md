@@ -3,7 +3,7 @@ This repository contains code extracts from a data analysis project I worked on 
 
 This was the final project of the course and I chose to analyse 40 years' of tsunami and earthquake data (1985 - 2024). I was inspired by the recent media coverage of the 40-year anniversary of the 2004 Indian Ocean Earthquake and Tsunami, the deadliest natural disaster in recorded history, which killed an estimated 228,000 people across 15 countries. I wanted to understand what features of the earthquake and subsequent tsunami made this particular event so devastating.
 
-You can view the [corresponding Tableau Story](https://public.tableau.com/views/2004_Indian_Ocean_Tsunami/TsunamiAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) online.
+You can view the [corresponding Tableau Story](https://public.tableau.com/views/2004_Indian_Ocean_Tsunami/TsunamiAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) online. This doesn't include all steps taken during the analysis, only those relevant to the final results.
 
 
 ## Data Sources
