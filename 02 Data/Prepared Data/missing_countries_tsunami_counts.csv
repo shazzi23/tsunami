@@ -1,0 +1,115 @@
+country,location,Found,tsunami_count
+Azores (portugal),PONTA DELGADA,N,1
+Guadeloupe (french Territory),ANSE RODRIGUE,,1
+Guadeloupe (french Territory),BASSE-TERRE ISLAND,,1
+Guadeloupe (french Territory),"DESHAIES, BASSE-TERRE ISLAND",,2
+Guadeloupe (french Territory),GRANDE ANSE BEACH,,1
+Guadeloupe (french Territory),GUADELOUPE,,1
+Guadeloupe (french Territory),MALENDURE,,1
+Guadeloupe (french Territory),VIEUX HABITANTS,,1
+Reunion (french Territory),LE PORT,,1
+Reunion (french Territory),POINTE DES GALETS,,2
+Reunion (french Territory),PORT EST,,1
+Reunion (french Territory),REUNION,,8
+Reunion (french Territory),SAINT GILLES,,3
+Reunion (french Territory),SAINT LEU,,2
+Reunion (french Territory),SAINT PIERRE,,1
+Reunion (french Territory),SAINT-GILLES,,1
+Reunion (french Territory),SAINT-LEU,,1
+Reunion (french Territory),SAINT-PIERRE,,1
+Reunion (french Territory),SAINTE MARIE,,3
+Reunion (french Territory),SAINTE ROSE,,1
+Reunion (french Territory),SAINTE-MARIE,,1
+Reunion (french Territory),SAINTE-ROSE,,1
+Uk Territory,"DIEGO GARCIA, CHAGOS ISLANDS",Br. Indian Ocean Ter.,3
+Uk Territory,"KING EDWARD IS, SOUTH GEORGIA IS",S. Geo. and the Is.,2
+Uk Territory,"PORT STANLEY, FALKLAND ISLANDS",Falkland Is.,3
+Uk Territory,"SIGNY, SOUTH ORKNEY ISLANDS",,1
+Uk Territory,ST. HELENA,Saint Helena,3
+Usa Territory,"AFAO, TUTUILA ISLAND",,1
+Usa Territory,"AFONO, TUTUILA ISLAND",,1
+Usa Territory,"AGANA HARBOR, GUAM",,1
+Usa Territory,"AGUGULU, TUTUILA ISLAND",,1
+Usa Territory,"ALAO, TUTUILA ISLAND",,1
+Usa Territory,"ALOFAU, TUTUILA ISLAND",,1
+Usa Territory,"AMALAU, TUTUILA ISLAND",,1
+Usa Territory,"AMALUIA, TUTUILA ISLAND",,1
+Usa Territory,"AMANAVE, TUTUILA ISLAND",,1
+Usa Territory,"AMAUA, TUTUILA ISLAND",,1
+Usa Territory,"AMOULI, TUTUILA ISLAND",,1
+Usa Territory,"ANUA, TUTUILA ISLAND",,1
+Usa Territory,"AOA, TUTUILA ISLAND",,1
+Usa Territory,"APRA HARBOR, GUAM",,2
+Usa Territory,"ASILII, TUTUILA ISLAND",,1
+Usa Territory,"AUASI, TUTUILA ISLAND",,1
+Usa Territory,"AUNU'U, AUNU'U ISLAND",,1
+Usa Territory,"AVAIO, TUTUILA ISLAND",,1
+Usa Territory,"BEFORE OFU AIRPORT, OFU ISLAND",,1
+Usa Territory,"D42407 BPR, 230 NM S OF SAN JUAN",,1
+Usa Territory,"D52401 BPR, 610 NM NE OF SAIPAN",,1
+Usa Territory,"D52405 BPR, GUAM",,2
+Usa Territory,"ESPERANZA, VIEQUES ISLAND",,1
+Usa Territory,"FAGA'ALU, TUTUILA ISLAND",,1
+Usa Territory,"FAGA'ITUA, TUTUILA ISLAND",,1
+Usa Territory,"FAGAALU, TUTUILA ISLAND",,1
+Usa Territory,"FAGALI'I, TUTUILA ISLAND",,1
+Usa Territory,"FAGALII, TUTUILA ISLAND",,1
+Usa Territory,"FAGAMALO, TUTUILA ISLAND",,1
+Usa Territory,"FAGANEANEA, TUTUILA ISLAND",,1
+Usa Territory,"FAGASA, TUTUILA ISLAND",,1
+Usa Territory,"FAGATELLE, TUTUILA ISLAND",,1
+Usa Territory,"FAILOLO, TUTUILA ISLAND",,1
+Usa Territory,"FATUMAFUTI, TUTUILA ISLAND",,1
+Usa Territory,ISLA DE MAGUEYES,,3
+Usa Territory,JOHNSTON ISLAND,,8
+Usa Territory,"LAULI'ITUAI, TUTUILA ISLAND",,1
+Usa Territory,"LELOALOA, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 1, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 2, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 4, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 5, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 6, TUTUILA ISLAND",,1
+Usa Territory,"LEONE 7, TUTUILA ISLAND",,1
+Usa Territory,"MALALOA, TUTUILA ISLAND",,1
+Usa Territory,"MALOATA, TUTUILA ISLAND",,1
+Usa Territory,"MASAUSI, TUTUILA ISLAND",,1
+Usa Territory,"MASEFAU, TUTUILA ISLAND",,1
+Usa Territory,"MASSACRE BAY, TUTUILA ISLAND",,1
+Usa Territory,"MATUU, TUTUILA ISLAND",,1
+Usa Territory,MIDWAY ISLANDS,,28
+Usa Territory,MONA ISLAND,,1
+Usa Territory,"NUA, TUTUILA ISLAND",,1
+Usa Territory,"OFU AIRPORT, OFU ISLAND",,1
+Usa Territory,"OFU IS. BRIDGE, OFU ISLAND",,1
+Usa Territory,"OFU IS. ROAD, OFU ISLAND",,1
+Usa Territory,"OFU VILLAGE, OFU ISLAND",,1
+Usa Territory,"OLOSEGA IS. ROAD, OLOSEGA ISLAND",,1
+Usa Territory,"OLOSEGA VILLAGE, OLOSEGA ISLAND",,1
+Usa Territory,"ONENOA, TUTUILA ISLAND",,1
+Usa Territory,"PAGO PAGO, AMERICAN SAMOA",,34
+Usa Territory,"PAGO PAGO, TUTUILA ISLAND",,1
+Usa Territory,PALMYRA ISLAND,,2
+Usa Territory,"POLOA 1, TUTUILA ISLAND",,1
+Usa Territory,"POLOA 2, TUTUILA ISLAND",,1
+Usa Territory,"POLOA, TUTUILA ISLAND",,1
+Usa Territory,PUNTA GUAYANILLA,,1
+Usa Territory,"SAILELE, TUTUILA ISLAND",,1
+Usa Territory,"SAIPAN, NORTHERN MARIANA ISLANDS",,10
+Usa Territory,SAN JUAN,,1
+Usa Territory,"SETAGA, TUTUILA ISLAND",,1
+Usa Territory,"SILI, OLOSEGA ISLAND",,1
+Usa Territory,"SLIDING ROCK, TUTUILA ISLAND",,1
+Usa Territory,ST. CROIX: CHRISTIANSTED,,2
+Usa Territory,ST. CROIX: LIMETREE,,2
+Usa Territory,ST. JOHN: LAMESHUR BAY,,1
+Usa Territory,ST. THOMAS: CHARLOTTE AMALIE,,1
+Usa Territory,"TAFANANAI, TUTUILA ISLAND",,1
+Usa Territory,"TALOFOFO RIVER, GUAM",,2
+Usa Territory,"TULA 2, TUTUILA ISLAND",,1
+Usa Territory,"TULA, TUTUILA ISLAND",,1
+Usa Territory,"UTULEI, TUTUILA ISLAND",,1
+Usa Territory,"UTUMEA, TUTUILA ISLAND",,1
+Usa Territory,"VAITOGI, TUTUILA ISLAND",,1
+Usa Territory,"VATIA, TUTUILA ISLAND",,1
+Usa Territory,WAKE ISLAND,,21
+Usa Territory,"YLIG BAY, GUAM",,1
